@@ -1,9 +1,13 @@
-# CardDeckPackage
+<h1 align = "center">
+    CardDeckPackage
+</h1>
 
 <p align="center">
     <img width="200" src="https://images.heb.com/is/image/HEBGrocery/000180784-1" alt="Deck of Cards">
 </p>
 
+
+<p align="center">
 A simple package developed in GoLang with several functions for a deck of cards.
 
 The package contains 6 specific functions:
@@ -13,3 +17,5 @@ The package contains 6 specific functions:
 4. saveToFile() -> Creates a text file with a string representation of all the cards in the current hand
 5. newDeckFromFile() -> Creates a new deck using the cards in the specified file
 6. shuffle() -> Takes the current deck, and shifts cards around at random in order to mix up the order
+
+</p>
