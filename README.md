@@ -1,7 +1,7 @@
 # CardDeckPackage
 
 <p align="center">
-    <img width="200" src="[https://images.heb.com/is/image/HEBGrocery/000180784-1]" alt="Deck of Cards">
+    <img width="200" src="https://images.heb.com/is/image/HEBGrocery/000180784-1" alt="Deck of Cards">
 </p>
 
 A simple package developed in GoLang with several functions for a deck of cards.
