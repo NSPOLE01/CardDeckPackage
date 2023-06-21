@@ -10,6 +10,10 @@
 <p align="center">
 A simple package developed in GoLang with several functions for a deck of cards.
 
+</p>
+
+<p align = "center">
+
 The package contains 6 specific functions:
 1. newDeck() -> Generates a new deck of cards containing all 52 standard cards
 2. print() -> Prints out all of the cards in the current hand
