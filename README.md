@@ -7,12 +7,9 @@
 </p>
 
 
-<p align="center">
+
 A simple package developed in GoLang with several functions for a deck of cards.
 
-</p>
-
-<p align = "center">
 
 The package contains 6 specific functions:
 1. newDeck() -> Generates a new deck of cards containing all 52 standard cards
@@ -22,4 +19,4 @@ The package contains 6 specific functions:
 5. newDeckFromFile() -> Creates a new deck using the cards in the specified file
 6. shuffle() -> Takes the current deck, and shifts cards around at random in order to mix up the order
 
-</p>
+
