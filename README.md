@@ -1,4 +1,9 @@
 # CardDeckPackage
+
+<p align="center">
+    <img width="200" src="[https://em-content.zobj.net/thumbs/160/apple/76/television_1f4fa.png](https://www.thoughtco.com/thmb/Qx4zhTIddLwa9jXfelCbnSuhbkM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/close-up-of-cards-on-white-background-767988479-5c4bd7bb4cedfd0001ddb36e.jpg)" alt="Deck of Cards">
+</p>
+
 A simple package developed in GoLang with several functions for a deck of cards.
 
 The package contains 6 specific functions:
